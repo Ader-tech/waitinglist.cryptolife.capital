@@ -1,0 +1,228 @@
+Uri: https://waitinglist.cryptolife.capital/
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\index.htm
+Content Type: text/html
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://waitinglist.cryptolife.capital/feed/
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://waitinglist.cryptolife.capital/comments/feed/
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://waitinglist.cryptolife.capital/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/themes/twentytwentyone/style.css?ver=1.4
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\themes\twentytwentyone\style.css
+Content Type: text/css
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.4
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\themes\twentytwentyone\assets\css\print.css
+Content Type: text/css
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/uploads/elementor/css/post-42.css?ver=1631590848
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\uploads\elementor\css\post-42.css
+Content Type: text/css
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.3.8
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/uploads/elementor/css/global.css?ver=1631590849
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/uploads/elementor/css/post-43.css?ver=1631590849
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\uploads\elementor\css\post-43.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|DM+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8.1
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\css.css
+Content Type: text/css
+
+Uri: https://waitinglist.cryptolife.capital/wp-json/
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://waitinglist.cryptolife.capital/wp-json/wp/v2/pages/43
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-json\wp\v2\pages\43.json
+Content Type: application/json
+
+Uri: https://waitinglist.cryptolife.capital/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://waitinglist.cryptolife.capital/wp-json/oembed/1.0/embed?url=https:%2F%2Fwaitinglist.cryptolife.capital%2F
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://waitinglist.cryptolife.capital/wp-json/oembed/1.0/embed?url=https:%2F%2Fwaitinglist.cryptolife.capital%2F&format=xml
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/uploads/2021/08/cryptolife-capital-favicon.png
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\uploads\2021\08\cryptolife-capital-favicon.png
+Content Type: image/png
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://waitinglist.cryptolife.capital/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/uploads/2021/08/env.png
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\uploads\2021\08\env.png
+Content Type: image/png
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/uploads/2021/08/ill.png
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\uploads\2021\08\ill.png
+Content Type: image/png
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/uploads/2021/08/chris.png
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\uploads\2021\08\chris.png
+Content Type: image/png
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.4
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\themes\twentytwentyone\assets\js\responsive-embeds.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js?ver=2.4.5
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\thrive-visual-editor\thrive-dashboard\js\dist\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-includes/js/wp-embed.min.js?ver=5.8.1
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.3.8
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.8
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.3.8
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor-pro\assets\js\preloaded-elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.3.8
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-includes/js/wp-util.min.js?ver=5.8.1
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.9
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/uploads/2021/08/ill-300x272.png
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\uploads\2021\08\ill-300x272.png
+Content Type: image/png
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\index-1.htm
+Content Type: text/html
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.12.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.12.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: font/woff2
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.12.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: font/woff
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.12.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: font/ttf
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.12.0
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://waitinglist.cryptolife.capital/wp-content/uploads/2021/08/line.png
+File Name: C:\Downloaded Web Sites\waitinglist.cryptolife.capital\wp-content\uploads\2021\08\line.png
+Content Type: image/png
+
